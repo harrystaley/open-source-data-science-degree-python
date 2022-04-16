@@ -26,11 +26,22 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 
 ## Math
 
+### Single Variable Calculus
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | Edx
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation | Edx
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration | Edx
+
+###### Alternative - This specialization contains all of hte programming courses listed above.
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[18.01x Single Variable Calculus](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)| MIT | 10 months | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | Edx
+
+### Linear Algebra and Statistics
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | Edx
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | 12 weeks | 3-6 hours/week | self-paced | None | Coursera
 
