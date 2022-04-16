@@ -34,11 +34,24 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | Edx
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | 12 weeks | 3-6 hours/week | self-paced | None | Coursera
 
+## Databases
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql?specialization=postgresql-for-everybody) | University of Michigan | 4 weeks | 4-6 hours/week | self paced | The first two courses in the programming section above. | Coursera
+[Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql?specialization=postgresql-for-everybody) | University of Michigan | 4 weeks | 4-6 hours/week | self paced | The first two courses in the programming section above. | Coursera
+[JSON and Natural Language Processing in PostgreSQL](https://www.coursera.org/learn/json-natural-language-processing-postgresql?specialization=postgresql-for-everybody) | University of Michigan | 4 weeks | 4-6 hours/week | self paced | The first two courses in the programming section above. | Coursera
+[Database Architecture, Scale, and NoSQL with Elasticsearch](https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql?specialization=postgresql-for-everybody) | University of Michigan | 4 weeks | 4-6 hours/week | self paced | The first two courses in the programming section above. | Coursera
+
+###### Alternative - This specialization contains all of the Database and SQL courses listed above.
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | 4 months | 4-6 hours/week | self paced | The first two courses in the programming section above. | Coursera
 
 ## Data Science
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--: | :--:
 [Introduction to Data Science in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-analysis) | University of Michigan | 3 weeks | 4-6 hours/week | self-paced | basic programming knowledge
 [Applied Plotting, Charting & Data Representation in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting) | University of Michigan | 4 weeks | 5-7 hours/week | self-paced | Introduction to Data Science in Python
 [Applied Machine Learning in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning) | University of Michigan | 6 weeks | 5-7 hours/week | self-paced | Applied Plotting, Charting & Data Representation in Python
