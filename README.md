@@ -9,6 +9,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | Edx
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | Coursera
 
+At this point you should be publishing the code you produce in your courses to your github repo.
+
 ## Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
@@ -23,12 +25,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | 5 months | 7 hours/week | self-paced | none | Coursera
-
-## Open Source Development and Version Control
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | The Linux Foundation | 4 Months | 3-5 Hours a week | self-paced | some programming | Coursera
 
 ## Math
 
@@ -110,3 +106,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | Udacity
 [The Unix Workbench](https://www.coursera.org/learn/unix) | JHU | 4 weeks | 4 hours/week | once a month | none | Coursera
+
+## Open Source Development and Version Control
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | The Linux Foundation | 4 Months | 3-5 Hours a week | self-paced | some programming | Coursera
