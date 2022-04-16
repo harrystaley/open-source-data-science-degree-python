@@ -24,6 +24,12 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Python 3 Programming Specialization](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython-3-programming) | University of Michigan | 5 months | 7 hours/week | self-paced | none | Coursera
 
+## Open Source Development and Version Control
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | The Linux Foundation | 4 Months | 3-5 Hours a week | self-paced | some programming | Coursera
+
 ## Math
 
 ### Single Variable Calculus
@@ -74,8 +80,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Applied Data Science with Python Specilization](https://www.coursera.org/specializations/data-science-python) | University of Michigan | 5 months | 7 hours/week | self-paced | Python Programming Skills | Coursera
 
-# For additional Computer Science Specific Topics Please see the following courses.
-
 ## Computing Systems
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
@@ -107,9 +111,3 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | Udacity
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | Coursera
-
-## Open Source Development and Version Control
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | The Linux Foundation | 4 Months | 3-5 Hours a week | self-paced | some programming | Coursera
