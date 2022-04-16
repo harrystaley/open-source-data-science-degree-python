@@ -2,12 +2,20 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science / Data Science degree, minus general education.
 
+## Learning How to Efficiently Learn
+
+If it has been awhile since you have been in the classroom or need to take your learning skills to the next level this course is mandatory. This was my survival kit when I worked full time while persuing a B.S. in Computer Science.
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | 4 weeks | 3-4 hours/week | self-paced | none | Coursera
+
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | Edx
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | Coursera
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/mathematical-thinking-computer-science) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | Coursera
 
 At this point you should be publishing the code you produce in your courses to your github repo.
 
