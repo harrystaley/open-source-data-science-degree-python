@@ -1,6 +1,27 @@
 # The Python Open Source Data Science Degree
 
+### Version 2.0 — 2026 Edition
+
 A curated list of free or low-cost courses from reputable universities and organizations that satisfy the same requirements as an undergraduate Computer Science / Data Science degree, minus general education. Updated for 2026.
+
+---
+
+## Curriculum Roadmap
+
+```
+1. Learning How to Learn
+2. CS Basics & Programming
+3. Math (Calculus → Linear Algebra → Statistics)
+4. Databases
+5. Data Science
+6. Machine Learning
+7. Large Language Models (LLMs)
+8. Agentic AI & AI Engineering
+9. MLOps & LLMOps
+10. Computing Systems & CS Theory
+11. Cloud, DevOps & Containers
+12. Unix, Open Source & Version Control
+```
 
 ---
 
@@ -73,11 +94,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 
 ---
 
-## Machine Learning and AI
+## Machine Learning
 
-This section is now a core requirement, not optional.
+This section is a core requirement. It covers classical and modern machine learning, deep learning, and the foundational skills needed to build, evaluate, and deploy models.
 
-### Foundations
+### Courses
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
@@ -85,21 +106,184 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 [Practical Deep Learning for Coders](https://course.fast.ai/) | fast.ai | 10 weeks | 8-10 hrs/week | self-paced | Python, some math | fast.ai
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | 5 months | 4-5 hrs/week | self-paced | ML basics | Coursera
 
-### Large Language Models and Generative AI
+### Topics Covered
+
+- Supervised Learning
+- Unsupervised Learning
+- Regression
+- Classification
+- Decision Trees
+- Ensemble Methods
+- Support Vector Machines
+- Clustering
+- Dimensionality Reduction
+- Feature Engineering
+- Neural Networks
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+- Deep Learning
+- Model Evaluation
+- Hyperparameter Optimization
+- Explainable AI
+- Statistical Learning
+
+### Key Libraries and Frameworks
+
+- NumPy
+- pandas
+- SciPy
+- scikit-learn
+- PyTorch
+- TensorFlow
+- Keras
+- XGBoost
+- LightGBM
+
+---
+
+## Large Language Models (LLMs)
+
+This section covers the theory, architecture, and practical application of large language models. Topics range from transformer fundamentals and prompt engineering to fine-tuning, retrieval-augmented generation, and responsible deployment.
+
+### Courses
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Short Courses](https://www.deeplearning.ai/short-courses/) | DeepLearning.AI | 1-3 hrs each | 1-3 hrs | self-paced | Python | DeepLearning.AI
 [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | Hugging Face | 6 weeks | 4-6 hrs/week | self-paced | Python, ML basics | Hugging Face
-[CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) | Stanford | 10 weeks | 6-8 hrs/week | self-paced | Deep Learning | Stanford (free)
-[LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) | Full Stack Deep Learning | 8 hours | self-paced | — | ML basics | FSDL
+[CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) | Stanford | 10 weeks | 6-8 hrs/week | self-paced | Deep Learning | Stanford
+[LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) | Full Stack Deep Learning | 8 hours | self-paced | self-paced | ML basics | FSDL
+[LLM University](https://cohere.com/llmu) | Cohere | ~20 hours | self-paced | self-paced | Python | Cohere
+[DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) | DeepLearning.AI | 1-3 hrs each | 1-3 hrs | self-paced | Python | DeepLearning.AI
 
-### MLOps
+### Topics Covered
+
+- Transformer Architecture
+- Self-Attention
+- Tokenization
+- Embeddings
+- Prompt Engineering
+- Structured Outputs
+- Function Calling
+- Context Windows
+- Retrieval-Augmented Generation
+- Fine-Tuning
+- LoRA and QLoRA
+- Open-Weight Models
+- Quantization
+- Inference Optimization
+- LLM Evaluation
+- Safety and Alignment
+- Multimodal Models
+
+### Key Libraries and Frameworks
+
+- Hugging Face Transformers
+- Tokenizers
+- Datasets
+- PEFT
+- TRL
+- llama.cpp
+- Ollama
+- vLLM
+- OpenAI SDK
+- Anthropic SDK
+- Google GenAI SDK
+
+---
+
+## Agentic AI & AI Engineering
+
+This section covers the design, construction, and deployment of AI agents and multi-agent systems. It includes tool use, memory, planning, and orchestration frameworks that form the foundation of modern AI engineering.
+
+### Courses
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[AI Agents](https://www.deeplearning.ai/short-courses/) | DeepLearning.AI | 2 hrs | 2 hrs | self-paced | LLM basics | DeepLearning.AI
+[Building AI Browser Agents](https://www.deeplearning.ai/short-courses/) | DeepLearning.AI | 2-3 hrs | 2-3 hrs | self-paced | LLM basics | DeepLearning.AI
+[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | OpenAI | 3-6 hrs | self-paced | self-paced | Python | OpenAI
+[Model Context Protocol](https://modelcontextprotocol.io/) | Anthropic | 3-4 hrs | self-paced | self-paced | Python | MCP Documentation
+[LangGraph Academy](https://academy.langchain.com/) | LangChain | 8-15 hrs | self-paced | self-paced | Python, LLM basics | LangChain
+[CrewAI Documentation](https://docs.crewai.com/) | CrewAI | 4-6 hrs | self-paced | self-paced | Python | CrewAI
+[AutoGen Documentation](https://microsoft.github.io/autogen/) | Microsoft | 6-10 hrs | self-paced | self-paced | Python | Microsoft
+[AG2 Documentation](https://docs.ag2.ai/) | AG2 | self-paced | self-paced | self-paced | Python | AG2
+[OpenHands Documentation](https://docs.openhands.dev/) | OpenHands | 4-8 hrs | self-paced | self-paced | Python | OpenHands
+
+### Topics Covered
+
+- AI Agents
+- Tool Calling
+- Function Calling
+- Agent Memory
+- State Management
+- Planning
+- Reflection
+- Multi-Agent Systems
+- Agent Communication
+- Browser Agents
+- Coding Agents
+- Retrieval-Augmented Generation
+- Model Context Protocol
+- Human-in-the-Loop Workflows
+- Long-Running Agents
+- Agent Evaluation
+- Agent Safety
+- Workflow Orchestration
+
+### Key Libraries and Frameworks
+
+- OpenAI Agents SDK
+- LangGraph
+- LangChain
+- CrewAI
+- AutoGen
+- AG2
+- OpenHands
+- LlamaIndex
+- DSPy
+- PydanticAI
+- Haystack
+
+### Capstone Project Ideas
+
+- Research Assistant
+- Enterprise RAG Chatbot
+- AI Coding Assistant
+- Browser Automation Agent
+- Multi-Agent Software Development Team
+- Document Processing Pipeline
+- Customer Support Agent
+- Personal Knowledge Management Assistant
+
+---
+
+## MLOps & LLMOps
+
+This section covers the operational side of machine learning and LLM systems — from experiment tracking and model registries to prompt versioning, evaluation, observability, and production deployment. MLOps and LLMOps are now essential skills for any practitioner deploying AI in the real world.
+
+### Courses
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | 4 months | 4 hrs/week | self-paced | ML basics | Coursera
-[Weights & Biases Courses](https://www.wandb.courses/) | Weights & Biases | varies | self-paced | — | Python, ML | W&B
+[Weights & Biases Courses](https://www.wandb.courses/) | Weights & Biases | varies | self-paced | self-paced | Python, ML | W&B
+
+### Topics Covered
+
+- Model Deployment
+- Experiment Tracking
+- Model Registries
+- Prompt Versioning
+- LLM Evaluation
+- Agent Evaluation
+- Observability
+- Tracing
+- Cost Monitoring
+- Model Serving
+- Data and Model Drift
+- Safety Monitoring
+- CI/CD for Machine Learning
+- LLM Application Testing
 
 ---
 
@@ -184,24 +368,27 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 4. Math (Calculus → Linear Algebra → Statistics)
 5. Algorithms Part I & II
 6. Databases
-7. Computing Systems
-8. Machine Learning Specialization
-9. Practical Deep Learning for Coders
-10. LLM courses (DeepLearning.AI short courses)
-11. Cloud Computing + DevOps
-12. MLOps
+7. Data Science
+8. Computing Systems
+9. Machine Learning Specialization
+10. Practical Deep Learning for Coders
+11. Deep Learning Specialization
+12. Large Language Models (LLMs)
+13. Agentic AI & AI Engineering
+14. Cloud Computing + DevOps
+15. MLOps & LLMOps
 
 ---
 
-## What Changed from the Previous Version
+## Changelog
 
-- **Added:** Machine Learning and AI section (now a core requirement)
-- **Added:** LLM / Generative AI subsection with Hugging Face and DeepLearning.AI courses
-- **Added:** MLOps subsection
-- **Added:** Cloud Computing section (AWS, GCP)
-- **Added:** DevOps and Containers section (Docker, Kubernetes)
-- **Added:** Vector Databases to the databases section
-- **Replaced:** Individual edX CS50 links → direct Harvard links (more stable)
-- **Replaced:** Database individual courses → consolidated specialization + modern additions
-- **Removed:** IBM Data Science Certificate (superseded by more targeted offerings)
-- **Removed:** Applied Cryptography (edX) — Cryptography I (Stanford) covers the same ground better
+### Version 2.0 — 2026 Edition
+
+- **Added:** `## Curriculum Roadmap` section near the top for navigation
+- **Renamed:** `Machine Learning and AI` → `## Machine Learning` with topics and libraries subsections
+- **Removed:** Old `Large Language Models and Generative AI` subsection from inside Machine Learning
+- **Added:** New top-level `## Large Language Models (LLMs)` section with 5 courses, topics, and libraries
+- **Added:** New top-level `## Agentic AI & AI Engineering` section with 9 courses, topics, libraries, and capstone ideas
+- **Renamed:** `MLOps` subsection → top-level `## MLOps & LLMOps` with expanded topics list
+- **Updated:** Recommended Learning Order to reflect the new 15-step curriculum path
+- **Preserved:** All existing course links and foundational sections unchanged
